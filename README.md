@@ -14,7 +14,7 @@
 * java script
 
 
-![My Image](Web%20capture_20-12-2022_18474_mostafamorcy.github.io.jpeg).jpeg)
+![My Image](Web%20capture_20-12-2022_18474_mostafamorcy.github.io.jpeg)
 
 
 demo live :https://mostafamorcy.github.io/Party-Calender/#
